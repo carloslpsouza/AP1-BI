@@ -1,7 +1,7 @@
-#AP1-BI
+# AP1-BI
 Entrega de trabalho AP1 - Técnica de inteligência de negócios - O projeto consiste na elaboração dos requisitos, estrutura e montagem de um sistema BI para uma empresa fictícia
 
-#Minimundo
+# Minimundo
 A Loca Bike é uma empresa de locação de bicicletas onde o cliente pode em qualquer filial locar sua bicicleta por um tempo determinado, de acordo com o tipo de necessidade do cliente. As filiais dispõem de quatro tipos de bicicletas, são elas:
 
   -  Passeio - Bicicletas 18 marchas para uso geral.
