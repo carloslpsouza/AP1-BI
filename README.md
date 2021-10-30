@@ -14,7 +14,7 @@ Para o desenvolvimento do sistema os stakeholders da empresa desejam persistir i
 # DER
 ![image](https://user-images.githubusercontent.com/55721262/135178984-b7233ead-8042-4bfa-a4af-4191c03d42eb.png)
 
-# Modelo Lógico - Traansacional
+# Modelo Lógico - Transacional
 PESSOA(cod_pessoa, nome, CPF, email).
 
 FILIAL(cod_filial, CNPJ, nome).
